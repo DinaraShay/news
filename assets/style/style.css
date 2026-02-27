@@ -94,7 +94,6 @@ a:hover {
 
 .header__nav-item a:hover {
   color: var(--colors-gold-400);
-
 }
 
 .main__aside {
@@ -219,7 +218,6 @@ h1 {
 .main__aside-news-item:not(:first-child) {
   border-top: 1px solid var(--colors-navy-600);
 }
-
 
 .main__aside-news-title {
   font-weight: 800;
